@@ -2083,6 +2083,13 @@
     cross-fetch "^3.1.5"
     encoding "^0.1.13"
 
+"@pinecone-database/pinecone@^3.0.2":
+  version "3.0.2"
+  resolved "https://registry.yarnpkg.com/@pinecone-database/pinecone/-/pinecone-3.0.2.tgz#5abb6b1670ef23b8cf831e5fe736653aa8da392d"
+  integrity sha512-OarESoYHlAEKh09pAzFs7QglCupd6Cv5QUIe9GHiFuVpyIFnBecklcRwWtLL1Qnd0cCFU7XvaWryFwrE4Pr4gA==
+  dependencies:
+    encoding "^0.1.13"
+
 "@pkgr/core@^0.1.0":
   version "0.1.1"
   resolved "https://registry.npmjs.org/@pkgr/core/-/core-0.1.1.tgz"
